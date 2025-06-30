@@ -19,4 +19,5 @@ void calculate(int k){
 int main(){
     calculate(23);
     return 0;
+    
 }
